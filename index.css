@@ -1,0 +1,23 @@
+
+img{
+    border-radius: 20%;
+    width: 200px;
+    height: 200px;
+    margin-top: 50%;
+    margin-bottom: 100px;
+    margin: auto;
+}
+
+p{
+    font-family:serif;
+    font-size: 27px;
+}
+body{
+    background-color: beige ;
+}
+h2{
+    font-size: 30px;
+}
+a{
+    font-size: 20px;
+}
